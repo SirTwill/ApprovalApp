@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Approval)</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 09:48:45</sys_created_on>
+        <sys_id>308ce9ee4f2c4010b6574a318110c7fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Approval)</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_308ce9ee4f2c4010b6574a318110c7fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 09:48:45</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=308ce9ee4f2c4010b6574a318110c7fe"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</application>
+        <file_path/>
+        <instance_id>ab5ac180db05f604d5c37236bf9619cc</instance_id>
+        <instance_name>dev28463</instance_name>
+        <name>sys_sg_write_back_action_item_308ce9ee4f2c4010b6574a318110c7fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description/><execution_script/><name>Delete (Approval)</name><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-20 09:48:45</sys_created_on><sys_id>308ce9ee4f2c4010b6574a318110c7fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete (Approval)</sys_name><sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package><sys_policy/><sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope><sys_update_name>sys_sg_write_back_action_item_308ce9ee4f2c4010b6574a318110c7fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-20 09:48:45</sys_updated_on><table>sysapproval_approver</table><template/><type>delete</type><use_current_record_as_condition>true</use_current_record_as_condition></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=308ce9ee4f2c4010b6574a318110c7fe"/></record_update>]]></payload>
+        <payload_hash>791806482</payload_hash>
+        <record_name>Delete (Approval)</record_name>
+        <reverted_from/>
+        <source>003ce5ee4f2c4010b6574a318110c749</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 09:48:46</sys_created_on>
+        <sys_id>c98c2dee4f2c4010b6574a318110c7e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16de891b7c70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 09:48:46</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>8d8c2deef92c40101ff44bfa19c024dc</update_guid>
+        <update_guid_history>8d8c2deef92c40101ff44bfa19c024dc:791806482</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:06:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>003406d02e53415680007a050a5301a9</sys_id>
+        <sys_metadata>308ce9ee4f2c4010b6574a318110c7fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Approval)</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_scope_delete display_value="">48862fa3ce56441dbea7f6de0a0645d1</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_308ce9ee4f2c4010b6574a318110c7fe</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_308ce9ee4f2c4010b6574a318110c7fe">c98c2dee4f2c4010b6574a318110c7e9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:06:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

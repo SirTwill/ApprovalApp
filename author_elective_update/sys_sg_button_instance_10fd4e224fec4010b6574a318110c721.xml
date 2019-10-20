@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="View Request Action">0242de264fec4010b6574a318110c735</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>View Request</label>
+        <location>leading_swipe</location>
+        <name>View Request</name>
+        <order>20</order>
+        <parent>f48ce9ee4f2c4010b6574a318110c7fb</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:14:49</sys_created_on>
+        <sys_id>10fd4e224fec4010b6574a318110c721</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>View Request</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_sg_button_instance_10fd4e224fec4010b6574a318110c721</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:35:34</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=10fd4e224fec4010b6574a318110c721"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</application>
+        <file_path/>
+        <instance_id>ab5ac180db05f604d5c37236bf9619cc</instance_id>
+        <instance_name>dev28463</instance_name>
+        <name>sys_sg_button_instance_10fd4e224fec4010b6574a318110c721</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="View Request Action">0242de264fec4010b6574a318110c735</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>View Request</label><location>leading_swipe</location><name>View Request</name><order>20</order><parent>f48ce9ee4f2c4010b6574a318110c7fb</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-20 12:14:49</sys_created_on><sys_id>10fd4e224fec4010b6574a318110c721</sys_id><sys_mod_count>2</sys_mod_count><sys_name>View Request</sys_name><sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package><sys_policy/><sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope><sys_update_name>sys_sg_button_instance_10fd4e224fec4010b6574a318110c721</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-20 12:35:34</sys_updated_on><table>sysapproval_approver</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=10fd4e224fec4010b6574a318110c721"/></record_update>]]></payload>
+        <payload_hash>1705970109</payload_hash>
+        <record_name>View Request</record_name>
+        <reverted_from/>
+        <source>003ce5ee4f2c4010b6574a318110c749</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:35:34</sys_created_on>
+        <sys_id>90b2da264fec4010b6574a318110c733</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16de92a6c220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:35:34</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>1cb2da2665ec4010325924b67d580132</update_guid>
+        <update_guid_history>1cb2da2665ec4010325924b67d580132:1705970109,4bbf86a21bec4010869f8b716778eb54:-544318087,60fd4e22a5ec4010b618888d1e25cf23:771696535</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:45:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>100c1316724f437387297c3bab6cf691</sys_id>
+        <sys_metadata>10fd4e224fec4010b6574a318110c721</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>View Request</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_scope_delete display_value="">48862fa3ce56441dbea7f6de0a0645d1</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_10fd4e224fec4010b6574a318110c721</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_10fd4e224fec4010b6574a318110c721">90b2da264fec4010b6574a318110c733</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:45:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

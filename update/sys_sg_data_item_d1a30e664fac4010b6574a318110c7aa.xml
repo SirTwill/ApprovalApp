@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Request</name>
+        <query_condition table="sc_req_item">sys_id={{sysid}}^ORnumber={{sysid}}<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="{{sysid}}"/>
+            <item endquery="false" field="number" goto="false" newquery="false" operator="=" or="true" value="{{sysid}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 11:29:49</sys_created_on>
+        <sys_id>d1a30e664fac4010b6574a318110c7aa</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Request</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_sg_data_item_d1a30e664fac4010b6574a318110c7aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:55:07</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d1a30e664fac4010b6574a318110c7aa"/>
+</record_update>

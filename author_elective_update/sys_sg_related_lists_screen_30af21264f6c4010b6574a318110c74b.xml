@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen">
+    <sys_sg_related_lists_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon/>
+        <name>Related List</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <show_count>true</show_count>
+        <sys_class_name>sys_sg_related_lists_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 10:02:24</sys_created_on>
+        <sys_id>30af21264f6c4010b6574a318110c74b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_sg_related_lists_screen_30af21264f6c4010b6574a318110c74b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 10:02:24</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_related_lists_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=30af21264f6c4010b6574a318110c74b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</application>
+        <file_path/>
+        <instance_id>ab5ac180db05f604d5c37236bf9619cc</instance_id>
+        <instance_name>dev28463</instance_name>
+        <name>sys_sg_related_lists_screen_30af21264f6c4010b6574a318110c74b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen"><sys_sg_related_lists_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description/><dynamic_prefetch_count/><fetch_type>background</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><icon/><name>Related List</name><order/><parent/><parent_table/><roles_override/><show_count>true</show_count><sys_class_name>sys_sg_related_lists_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-20 10:02:24</sys_created_on><sys_id>30af21264f6c4010b6574a318110c74b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Related List</sys_name><sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package><sys_policy/><sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope><sys_update_name>sys_sg_related_lists_screen_30af21264f6c4010b6574a318110c74b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-20 10:02:24</sys_updated_on><table>sysapproval_approver</table></sys_sg_related_lists_screen><sys_translated_text action="delete_multiple" query="documentkey=30af21264f6c4010b6574a318110c74b"/></record_update>]]></payload>
+        <payload_hash>1272605281</payload_hash>
+        <record_name>Related List</record_name>
+        <reverted_from/>
+        <source>003ce5ee4f2c4010b6574a318110c749</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 10:02:24</sys_created_on>
+        <sys_id>74af6d264f6c4010b6574a318110c7b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16de89e32a00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 10:02:24</sys_updated_on>
+        <type>Related lists screen</type>
+        <update_guid>bcaf6d26426c4010bce3b31bf6a93db5</update_guid>
+        <update_guid_history>bcaf6d26426c4010bce3b31bf6a93db5:1272605281</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 10:03:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_related_lists_screen">sys_sg_related_lists_screen</sys_db_object>
+        <sys_id>20c1be812e8949008e8959d1bac07840</sys_id>
+        <sys_metadata>30af21264f6c4010b6574a318110c74b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_scope_delete display_value="">48862fa3ce56441dbea7f6de0a0645d1</sys_scope_delete>
+        <sys_update_name>sys_sg_related_lists_screen_30af21264f6c4010b6574a318110c74b</sys_update_name>
+        <sys_update_version display_value="sys_sg_related_lists_screen_30af21264f6c4010b6574a318110c74b">74af6d264f6c4010b6574a318110c7b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 10:03:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

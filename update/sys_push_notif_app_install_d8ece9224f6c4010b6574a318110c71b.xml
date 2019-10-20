@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-10-20 12:55:13</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 09:50:21</sys_created_on>
+        <sys_id>d8ece9224f6c4010b6574a318110c71b</sys_id>
+        <sys_mod_count>35</sys_mod_count>
+        <sys_name>eyN2M4z1hII:APA91bHHbYv8PE4AfEZmGtU1LACV_fWe-JMOu2p5QjOlj-GlBsFAvPXT1_fuNEi1IQg1UVwDsBH2sQ2TBO4ux5bLqZ6wR66zCznEMhu_8h__2X6sdrmk1Gd1VPjgumGyffzEbGCCitXZ</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_d8ece9224f6c4010b6574a318110c71b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:55:13</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>eyN2M4z1hII:APA91bHHbYv8PE4AfEZmGtU1LACV_fWe-JMOu2p5QjOlj-GlBsFAvPXT1_fuNEi1IQg1UVwDsBH2sQ2TBO4ux5bLqZ6wR66zCznEMhu_8h__2X6sdrmk1Gd1VPjgumGyffzEbGCCitXZ</token>
+    </sys_push_notif_app_install>
+</record_update>

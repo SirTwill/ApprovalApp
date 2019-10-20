@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="DELETE">
+        <button display_value="View Request">bdbd82224fec4010b6574a318110c74a</button>
+        <button_table>sysapproval_approver</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="sysId">4b6dc6224fec4010b6574a318110c743</destination_ui_parameter>
+        <source_field>document_id</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:13:50</sys_created_on>
+        <sys_id>02bd82224fec4010b6574a318110c74e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>4b6dc6224fec4010b6574a318110c743</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_02bd82224fec4010b6574a318110c74e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:23:03</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</application>
+        <file_path/>
+        <instance_id>ab5ac180db05f604d5c37236bf9619cc</instance_id>
+        <instance_name>dev28463</instance_name>
+        <name>sys_sg_redirect_dest_field_02bd82224fec4010b6574a318110c74e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field"><sys_sg_redirect_dest_field action="INSERT_OR_UPDATE"><button display_value="View Request">bdbd82224fec4010b6574a318110c74a</button><button_table>sysapproval_approver</button_table><constant_value/><destination_ui_parameter display_value="sysId">4b6dc6224fec4010b6574a318110c743</destination_ui_parameter><source_field>document_id</source_field><source_ui_parameter/><sys_class_name>sys_sg_redirect_dest_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-20 12:13:50</sys_created_on><sys_id>02bd82224fec4010b6574a318110c74e</sys_id><sys_mod_count>3</sys_mod_count><sys_name>4b6dc6224fec4010b6574a318110c743</sys_name><sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package><sys_policy/><sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope><sys_update_name>sys_sg_redirect_dest_field_02bd82224fec4010b6574a318110c74e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-20 12:23:03</sys_updated_on><type>field</type></sys_sg_redirect_dest_field></record_update>]]></payload>
+        <payload_hash>573581556</payload_hash>
+        <record_name>4b6dc6224fec4010b6574a318110c743</record_name>
+        <reverted_from/>
+        <source>003ce5ee4f2c4010b6574a318110c749</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:23:03</sys_created_on>
+        <sys_id>45dfce624fec4010b6574a318110c7b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16de91ef4dc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:23:03</sys_updated_on>
+        <type>Redirection destination fields</type>
+        <update_guid>cddfce62c9ec4010ed2a704cd6238cb7</update_guid>
+        <update_guid_history>cddfce62c9ec4010ed2a704cd6238cb7:573581556,94de426249ec401070ea22e17dd3e72f:-1108266576,a9cd0e2297ec40109ff8c2d6ea647ba4:-286581245,86bd8222e7ec40103d60b2535c633250:815179859</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:30:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_redirect_dest_field">sys_sg_redirect_dest_field</sys_db_object>
+        <sys_id>3df1679e37524186b0f480cd97d45c69</sys_id>
+        <sys_metadata>02bd82224fec4010b6574a318110c74e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4b6dc6224fec4010b6574a318110c743</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_scope_delete display_value="">48862fa3ce56441dbea7f6de0a0645d1</sys_scope_delete>
+        <sys_update_name>sys_sg_redirect_dest_field_02bd82224fec4010b6574a318110c74e</sys_update_name>
+        <sys_update_version display_value="sys_sg_redirect_dest_field_02bd82224fec4010b6574a318110c74e">45dfce624fec4010b6574a318110c7b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:30:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

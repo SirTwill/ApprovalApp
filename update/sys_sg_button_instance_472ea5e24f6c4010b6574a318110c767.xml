@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Launcher Button">0b2ea5e24f6c4010b6574a318110c764</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">722ee9a24f6c4010b6574a318110c7d7</icon>
+        <label>My Approvals Launcher Button Instance</label>
+        <location>top</location>
+        <name>My Approvals Launcher Button Instance</name>
+        <order/>
+        <parent>bc8c2dae4f2c4010b6574a318110c7c7</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 09:56:00</sys_created_on>
+        <sys_id>472ea5e24f6c4010b6574a318110c767</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Approvals Launcher Button Instance</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_sg_button_instance_472ea5e24f6c4010b6574a318110c767</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 09:56:00</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=472ea5e24f6c4010b6574a318110c767"/>
+</record_update>

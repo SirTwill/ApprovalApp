@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>my requests</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Address-Book">c0140e664fac4010b6574a318110c7b1</icon>
+        <item_view/>
+        <name>requests</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style>regular</style>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 11:31:39</sys_created_on>
+        <sys_id>44144ea64fac4010b6574a318110c716</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>requests</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_sg_list_screen_44144ea64fac4010b6574a318110c716</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 11:31:39</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=44144ea64fac4010b6574a318110c716"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</application>
+        <file_path/>
+        <instance_id>ab5ac180db05f604d5c37236bf9619cc</instance_id>
+        <instance_name>dev28463</instance_name>
+        <name>sys_sg_list_screen_44144ea64fac4010b6574a318110c716</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description>my requests</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><icon display_value="icon-Address-Book">c0140e664fac4010b6574a318110c7b1</icon><item_view/><name>requests</name><order/><parent/><parent_table/><roles_override/><style>regular</style><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-20 11:31:39</sys_created_on><sys_id>44144ea64fac4010b6574a318110c716</sys_id><sys_mod_count>0</sys_mod_count><sys_name>requests</sys_name><sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package><sys_policy/><sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope><sys_update_name>sys_sg_list_screen_44144ea64fac4010b6574a318110c716</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-20 11:31:39</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=44144ea64fac4010b6574a318110c716"/></record_update>]]></payload>
+        <payload_hash>1351554669</payload_hash>
+        <record_name>requests</record_name>
+        <reverted_from/>
+        <source>003ce5ee4f2c4010b6574a318110c749</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 11:31:39</sys_created_on>
+        <sys_id>04144ea64fac4010b6574a318110c719</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16de8efe7010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 11:31:39</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>4c144ea6c1ac40102d4201a673b2a518</update_guid>
+        <update_guid_history>4c144ea6c1ac40102d4201a673b2a518:1351554669</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:11:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>3ca645e2cb004114a6db158387ddabc4</sys_id>
+        <sys_metadata>44144ea64fac4010b6574a318110c716</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>requests</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_scope_delete display_value="">48862fa3ce56441dbea7f6de0a0645d1</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_44144ea64fac4010b6574a318110c716</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_44144ea64fac4010b6574a318110c716">04144ea64fac4010b6574a318110c719</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:11:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

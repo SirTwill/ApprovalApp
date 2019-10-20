@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>sysapproval_approver</basic_apply_to>
+        <basic_query_from>sc_item_option_mtom</basic_query_from>
+        <insert_callback/>
+        <name>Approval Variables</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+	
+	var request_sys_id = parent.getValue("sysapproval");itemr_sys_idSTARTSWITH5323e28e4fe00010b6574a318110c704
+	current.addQuery()
+
+})(current, parent);]]></query_with>
+        <reference_field>sc_item_option</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 11:50:56</sys_created_on>
+        <sys_id>1e9406e64fac4010b6574a318110c7d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Variables</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_relationship_1e9406e64fac4010b6574a318110c7d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 11:50:56</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=1e9406e64fac4010b6574a318110c7d0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</application>
+        <file_path/>
+        <instance_id>ab5ac180db05f604d5c37236bf9619cc</instance_id>
+        <instance_name>dev28463</instance_name>
+        <name>sys_relationship_1e9406e64fac4010b6574a318110c7d0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;sysapproval_approver&lt;/basic_apply_to&gt;&lt;basic_query_from&gt;sc_item_option_mtom&lt;/basic_query_from&gt;&lt;insert_callback/&gt;&lt;name&gt;Approval Variables&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+	
+	var request_sys_id = parent.getValue("sysapproval");itemr_sys_idSTARTSWITH5323e28e4fe00010b6574a318110c704
+	current.addQuery()
+
+})(current, parent);]]&gt;&lt;/query_with&gt;&lt;reference_field&gt;sc_item_option&lt;/reference_field&gt;&lt;related_list/&gt;&lt;simple_reference&gt;false&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-20 11:50:56&lt;/sys_created_on&gt;&lt;sys_id&gt;1e9406e64fac4010b6574a318110c7d0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Approval Variables&lt;/sys_name&gt;&lt;sys_package display_value="My Approvals" source="x_250131_approvals"&gt;003ce5ee4f2c4010b6574a318110c747&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="My Approvals"&gt;003ce5ee4f2c4010b6574a318110c747&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_1e9406e64fac4010b6574a318110c7d0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-20 11:50:56&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=1e9406e64fac4010b6574a318110c7d0"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-546807065</payload_hash>
+        <record_name>Approval Variables</record_name>
+        <reverted_from/>
+        <source>003ce5ee4f2c4010b6574a318110c749</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 11:50:56</sys_created_on>
+        <sys_id>aa7802ea4fac4010b6574a318110c732</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16de9018f330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 11:50:56</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>e27802eabcac40108d5d365e53007932</update_guid>
+        <update_guid_history>e27802eabcac40108d5d365e53007932:-546807065</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:11:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>0553bf95adc742f680d368b29082da24</sys_id>
+        <sys_metadata>1e9406e64fac4010b6574a318110c7d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Variables</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_parent display_value="Sysapproval Approver">d0e2a5734ff33300b6574a318110c718</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_scope_delete display_value="">48862fa3ce56441dbea7f6de0a0645d1</sys_scope_delete>
+        <sys_update_name>sys_relationship_1e9406e64fac4010b6574a318110c7d0</sys_update_name>
+        <sys_update_version display_value="sys_relationship_1e9406e64fac4010b6574a318110c7d0">aa7802ea4fac4010b6574a318110c732</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:11:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

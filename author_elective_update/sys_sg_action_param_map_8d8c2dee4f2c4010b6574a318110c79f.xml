@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Edit Button (Approval)">c18c2dee4f2c4010b6574a318110c787</button>
+        <item_parameter display_value="Approval due_date">348c2dee4f2c4010b6574a318110c77b</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 09:48:46</sys_created_on>
+        <sys_id>8d8c2dee4f2c4010b6574a318110c79f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>348c2dee4f2c4010b6574a318110c77b</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_8d8c2dee4f2c4010b6574a318110c79f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 09:48:46</sys_updated_on>
+        <ui_parameter display_value="Due date">498c2dee4f2c4010b6574a318110c791</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</application>
+        <file_path/>
+        <instance_id>ab5ac180db05f604d5c37236bf9619cc</instance_id>
+        <instance_name>dev28463</instance_name>
+        <name>sys_sg_action_param_map_8d8c2dee4f2c4010b6574a318110c79f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Edit Button (Approval)">c18c2dee4f2c4010b6574a318110c787</button><item_parameter display_value="Approval due_date">348c2dee4f2c4010b6574a318110c77b</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-20 09:48:46</sys_created_on><sys_id>8d8c2dee4f2c4010b6574a318110c79f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>348c2dee4f2c4010b6574a318110c77b</sys_name><sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package><sys_policy/><sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope><sys_update_name>sys_sg_action_param_map_8d8c2dee4f2c4010b6574a318110c79f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-20 09:48:46</sys_updated_on><ui_parameter display_value="Due date">498c2dee4f2c4010b6574a318110c791</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>-98113535</payload_hash>
+        <record_name>348c2dee4f2c4010b6574a318110c77b</record_name>
+        <reverted_from/>
+        <source>003ce5ee4f2c4010b6574a318110c749</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 09:48:47</sys_created_on>
+        <sys_id>dd8c6dee4f2c4010b6574a318110c722</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16de891ba110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 09:48:47</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>598c6deed72c4010d121bb37144b4a22</update_guid>
+        <update_guid_history>598c6deed72c4010d121bb37144b4a22:-98113535</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 12:07:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>34910d56083d43129338819c69171024</sys_id>
+        <sys_metadata>8d8c2dee4f2c4010b6574a318110c79f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>348c2dee4f2c4010b6574a318110c77b</sys_name>
+        <sys_package display_value="My Approvals" source="x_250131_approvals">003ce5ee4f2c4010b6574a318110c747</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Approvals">003ce5ee4f2c4010b6574a318110c747</sys_scope>
+        <sys_scope_delete display_value="">48862fa3ce56441dbea7f6de0a0645d1</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_8d8c2dee4f2c4010b6574a318110c79f</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_8d8c2dee4f2c4010b6574a318110c79f">dd8c6dee4f2c4010b6574a318110c722</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 12:07:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
